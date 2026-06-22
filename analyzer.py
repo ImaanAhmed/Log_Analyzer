@@ -22,9 +22,3 @@ for ip, count in tally.items():
     writer.writerow([ip, count])
 
 threat_report.close()
-#Open the serverlogs txt file in read mode without changing anything
-#Loop through the lines line by line
-#Check if the line has the word "Failed Password"
-#If it does extract the IP address from that line
-#Keep a running tally of how many times each IP failed
-#Find the IP with the highest tally and print it out
