@@ -1,0 +1,22 @@
+Jun 22 02:17:01 server CRON: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 02:17:01 server CRON: pam_unix(cron:session): session closed for user root
+Jun 22 02:25:14 server sshd: Accepted publickey for admin from 192.168.1.50 port 50122 ssh2
+Jun 22 02:25:14 server sshd: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Jun 22 02:30:01 server CRON: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 02:30:01 server CRON: pam_unix(cron:session): session closed for user root
+Jun 22 02:41:11 server sshd: Failed password for invalid user ftp from 203.0.113.88 port 39412 ssh2
+Jun 22 02:41:13 server sshd: Failed password for root from 203.0.113.88 port 39414 ssh2
+Jun 22 02:41:15 server sshd: Failed password for admin from 203.0.113.88 port 39416 ssh2
+Jun 22 02:41:18 server sshd: Failed password for ubuntu from 203.0.113.88 port 39418 ssh2
+Jun 22 02:41:20 server sshd: Failed password for test from 203.0.113.88 port 39420 ssh2
+Jun 22 02:45:01 server sshd: Connection closed by authenticating user root 198.51.100.14 port 44321 [preauth]
+Jun 22 02:48:33 server sudo:    admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/cat /var/log/auth.log
+Jun 22 02:50:01 server CRON: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 02:50:01 server CRON: pam_unix(cron:session): session closed for user root
+Jun 22 02:55:12 server sshd: Failed password for root from 203.0.113.88 port 39455 ssh2
+Jun 22 02:55:14 server sshd: Failed password for root from 203.0.113.88 port 39457 ssh2
+Jun 22 02:55:16 server sshd: Failed password for root from 203.0.113.88 port 39459 ssh2
+Jun 22 03:00:01 server CRON: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 22 03:01:10 server sshd: Accepted password for dev_team from 10.0.0.15 port 55123 ssh2
+Jun 22 03:05:02 server sshd: Failed password for root from 185.199.108.153 port 41122 ssh2
+Jun 22 03:10:01 server CRON: pam_unix(cron:session): session closed for user root
